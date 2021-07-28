@@ -1,4 +1,3 @@
-# Tetris_SDL2
 # Attribution
 - <a href="http://www.freepik.com">Designed by Rawpixel.com / Freepik</a>
 - <a href="http://www.freepik.com">Designed by starline / Freepik</a>
@@ -8,3 +7,5 @@
 
 # Installer and Portable
 https://drive.google.com/drive/folders/1yviN65r7ixev9k27xgNL90jzXXc0kdkm?usp=sharing
+# Video
+https://youtu.be/AdCWlvblBHo
